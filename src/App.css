@@ -1,0 +1,136 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+.hi{
+  color: greenyellow;
+}
+img{
+  background-size: cover;
+  height: 600px;
+  width: 1328px;
+}
+h2{
+  position: absolute;
+  top: 30%;
+  left: 6%;
+  color: white;
+  padding: 3%;
+}
+h1{
+  position: absolute;
+  top: 30%;
+  left: 9%;
+  color: white;
+}
+.button{
+  position: absolute;
+  top: 45%;
+  left: 9%;
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: crimson;
+  border: none;
+  color: white;
+  font-family: serif;
+  letter-spacing: 1px;
+}
+.button:hover{
+  background: red;
+}
+input[type="submit"]{
+  position: absolute;
+  top: 45%;
+  left: 9%;
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: crimson;
+  border: none;
+  color: white;
+  font-family: serif;
+  letter-spacing: 1px;
+}
+input[type="submit"]:hover{
+  background: red;
+}
+ol{
+  float: left;
+
+}
+ol li{
+  float: left;
+  width: 90px;
+  position: relative;
+  left: 25%;
+  list-style-type: none;
+  font-family: serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
+ol li a{
+  text-decoration: none;
+  color: #000;
+
+}
+ol li a:hover{
+  border-bottom: 4px solid red;
+}
+.logo img{
+  height: 100%;
+  width: 80px;
+}
+h6{
+  top: 10%;  
+  color: red;
+}
+.bt{
+  position: absolute;
+  top: 22%;
+  left: 9%;
+  padding: 10px;
+  text-transform: uppercase;
+  background-color: crimson;
+  border: none;
+  color: white;
+  font-family: serif;
+  letter-spacing: 1px;
+}
+.bt:hover{
+  background: red;
+}
+
+
